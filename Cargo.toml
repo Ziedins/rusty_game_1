@@ -7,4 +7,5 @@ edition = "2021"
 
 [dependencies]
 rusty_engine = "5.2.1"
+rand = "0.8.5"
 
